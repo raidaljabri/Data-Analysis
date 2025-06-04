@@ -37,8 +37,7 @@ I analyst hotel data containing 23 million rows using Tableau, calculating the a
 
       Kindly download these Excel files from repository and view them in Microsoft Excel.
 
- - 1 project Booking Hotel Data Analysis:
- - [Excel Project](https://github.com/raidaljabri/Data-Analysis/blob/a63cbecac858205601ce194da666cd0a9c6a2a2c/Excel%20Project%20.xlsx)
+ - 1 project Booking Hotel Data Analysis: [Excel Project](https://github.com/raidaljabri/Data-Analysis/blob/a63cbecac858205601ce194da666cd0a9c6a2a2c/Excel%20Project%20.xlsx)
    
 I analyst the company's bicycle user data using Excel, removing duplicates and missing values, and adjusting some values ​​to fit the analysis. I then created charts showing the average number of bicycles per gender, including those who own and do not own bicycles, identifying the age groups most frequently using bicycles, and analyzing the commuting distance covered by bicycle users. These graphical representations helped present the information in a visual and easy-to-understand format.
 
