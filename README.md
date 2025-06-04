@@ -10,7 +10,6 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
   1 project
 - Booking Hotel Data Analysis (4 Dashboards): 
       
-      1 Avg price for bedrooms
 
 **Avg price for bedrooms**  
    ![Avg price for bedrooms](photo/tableau/Avg price for bedrooms.png)
