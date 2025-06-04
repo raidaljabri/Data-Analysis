@@ -31,7 +31,7 @@ I analyst hotel data containing 23 million rows using Tableau, calculating the a
   ![Price by zd code](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/price%20by%20zd%20cood.png?raw=true)
 
      
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - [x] *Excel* -
 
