@@ -8,23 +8,23 @@
 
 To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
   1 project
-- Booking Hotel Data Analysis (4 Dashboards): h
+- Booking Hotel Data Analysis (4 Dashboards): 
       
       1 Avg price for bedrooms
 
-![Avg price for bedrooms](v)
+![Avg price for bedrooms](photo/tableau/Avg price for bedrooms.png)
 
       2 Revenue for Year
       
-![Revenue for Year](v)
+![Revenue for Year](photo/tableau/Revenue for Year.png)
 
       3 Distinct count of badroom listings
       
-![Distinct count of badroom listings](v)
+![Distinct count of badroom listings](photo/tableau/Distinct count of badroom listings.png)
 
       4 price by zd cood
       
-![price by zd cood](v)
+![price by zd cood](photo/tableau/price by zd cood.png)
 
      
 
