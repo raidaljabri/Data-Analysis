@@ -11,8 +11,7 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 - Booking Hotel Data Analysis (4 Dashboards): 
       
 
-**Avg price for bedrooms**  
-   ![Avg price for bedrooms](photo/tableau/Avg price for bedrooms.png)
+![Avg price for bedrooms](https://github.com/raidaljabri/Data-Analysis/blob/27117e8ac221ace2b81f7a43a01fc32610f18ea9/photo/tableau/Avg%20price%20for%20bedrooms.png?raw=true)
 
       2 Revenue for Year
       
