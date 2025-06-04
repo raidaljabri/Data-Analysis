@@ -12,19 +12,25 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
       
       1 Avg price for bedrooms
 
-![Avg price for bedrooms](photo/tableau/Avg price for bedrooms.png)
+**Avg price for bedrooms**  
+   ![Avg price for bedrooms](photo/tableau/Avg price for bedrooms.png)
 
       2 Revenue for Year
       
-![Revenue for Year](photo/tableau/Revenue for Year.png)
+**Revenue for Year**  
+   ![Revenue for Year](photo/tableau/Revenue for Year.png)
+
 
       3 Distinct count of badroom listings
       
-![Distinct count of badroom listings](photo/tableau/Distinct count of badroom listings.png)
+**Distinct count of bedroom listings**  
+   ![Distinct count of bedroom listings](photo/tableau/Distinct count of bedroom listings.png)
 
+   
       4 price by zd cood
       
-![price by zd cood](photo/tableau/price by zd cood.png)
+**Price by zd code**  
+   ![Price by zd code](photo/tableau/price by zd code.png)
 
      
 
