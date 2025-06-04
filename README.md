@@ -19,22 +19,28 @@ I analyst hotel data containing 23 million rows using Tableau, calculating the a
 ![Avg price for bedrooms](https://github.com/raidaljabri/Data-Analysis/blob/27117e8ac221ace2b81f7a43a01fc32610f18ea9/photo/tableau/Avg%20price%20for%20bedrooms.png?raw=true)
 
       2 Revenue for Year
-      
   ![Revenue for Year](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/Revenue%20for%20Year.png?raw=true)
 
 
       3 Distinct count of badroom listings
-      
   ![Distinct count of bedroom listings](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/Distinct%20count%20of%20badroom%20listings.png?raw=true)
 
 
    
       4 price by zd cood
-       
   ![Price by zd code](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/price%20by%20zd%20cood.png?raw=true)
 
      
 
 
+- [x] *Excel* -
 
+      Kindly download these Excel files from repository and view them in Microsoft Excel.
 
+ - 1 project Booking Hotel Data Analysis:
+ - [Excel Project](https://github.com/raidaljabri/Data-Analysis/blob/a63cbecac858205601ce194da666cd0a9c6a2a2c/Excel%20Project%20.xlsx)
+   
+I analyst the company's bicycle user data using Excel, removing duplicates and missing values, and adjusting some values ​​to fit the analysis. I then created charts showing the average number of bicycles per gender, including those who own and do not own bicycles, identifying the age groups most frequently using bicycles, and analyzing the commuting distance covered by bicycle users. These graphical representations helped present the information in a visual and easy-to-understand format.
+
+ Bike Sales DashboarD
+![Bike Sales DashboarD](d)
