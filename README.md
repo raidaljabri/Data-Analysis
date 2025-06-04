@@ -43,4 +43,4 @@ I analyst hotel data containing 23 million rows using Tableau, calculating the a
 I analyst the company's bicycle user data using Excel, removing duplicates and missing values, and adjusting some values ​​to fit the analysis. I then created charts showing the average number of bicycles per gender, including those who own and do not own bicycles, identifying the age groups most frequently using bicycles, and analyzing the commuting distance covered by bicycle users. These graphical representations helped present the information in a visual and easy-to-understand format.
 
  Bike Sales DashboarD
-![Bike Sales DashboarD](d)
+![Bike Sales DashboarD](https://github.com/raidaljabri/Data-Analysis/blob/77a9963586aad7e4638c150db02c6be149a9ce8c/photo/Excel/Bike%20Sales%20Dashboard.png))
