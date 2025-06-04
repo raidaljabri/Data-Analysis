@@ -8,9 +8,8 @@
 
 To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
-  1 project
-- Booking Hotel Data Analysis (4 Dashboards):
-
+ - 1 project Booking Hotel Data Analysis:
+I analyzed hotel data containing 23 million rows using Tableau, calculating the average room rate for each room type over a full year. Prices were also analyzed according to the ZD Code to determine the impact of classifications on pricing. Additionally, the number of people who booked each room was calculated, reflecting the popularity of the rooms. This analysis provides valuable insights for improving hotel pricing and planning strategies.
 
         Avg price for bedrooms
 ![Booking Hotel](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/booking%20hoel.png?raw=true)
