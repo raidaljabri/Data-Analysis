@@ -10,9 +10,7 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
   - 2 project HR Analysis Dashbard:
     
-     HR Analysis Dashbard
-  HR Analysis Dashbard: [ HR Analysis Dashbard]([h](https://public.tableau.com/views/HRAnalysisDashbard/HDanalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) <br />
-         
+     
 
 
 
