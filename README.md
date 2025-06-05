@@ -8,6 +8,19 @@
 
 To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
+  - 2 project HR Analysis Dashbard:
+    
+     HR Analysis Dashbard
+![HR Analysis Dashbard](https://public.tableau.com/views/HRAnalysisDashbard/HDanalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+         
+
+
+
+
+
+
+
+
  - 1 project Booking Hotel Data Analysis:
    
 I analyst hotel data containing 23 million rows using Tableau, calculating the average room rate for each room type over a full year. Prices were also analyzed according to the ZD Code to determine the impact of classifications on pricing. Additionally, the number of people who booked each room was calculated, reflecting the popularity of the rooms. This analysis provides valuable insights for improving hotel pricing and planning strategies.
@@ -32,7 +45,7 @@ I analyst hotel data containing 23 million rows using Tableau, calculating the a
 
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+
 
 - [x] *Excel* -
 
