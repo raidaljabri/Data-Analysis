@@ -69,9 +69,11 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
 ## *Excel* -
 
-      Kindly download these Excel files from repository and view them in Microsoft Excel.
+Kindly download these Excel files from repository and view them in Microsoft Excel.
 
- - 1 project Booking Hotel Data Analysis: [Excel Project](https://github.com/raidaljabri/Data-Analysis/blob/a63cbecac858205601ce194da666cd0a9c6a2a2c/Excel%20Project%20.xlsx)
+ - 1 project Bike Sales Dashboard Analysis: [Excel Project](https://github.com/raidaljabri/Data-Analysis/blob/a63cbecac858205601ce194da666cd0a9c6a2a2c/Excel%20Project%20.xlsx)
+
+   ### 🔹 تحليل مبيعات الدراجات –  Bike Sales Dashboard 
    
 تعرض لوحة معلومات "Bike Sales Dashboard" تحليلاً شاملاً لسلوك المستهلكين في شراء الدراجات استنادًا إلى عدة عوامل، حيث توضح العلاقة بين الدخل والجنس وقرار الشراء، وتبيّن أن الذكور بشكل عام يمتلكون دخلاً أعلى من الإناث سواء قاموا بشراء دراجة أم لا، كما أن الأشخاص الذين اشتروا دراجات
 يوضح الرسم الخاص بالمسافة اليومية التي يقطعها العملاء أن من يسافرون لمسافات قصيرة (0-1 ميل) هم الأكثر شراءً للدراجات، وتقل معدلات الشراء بزيادة المسافة، مما يعكس أن الدراجة تُستخدم غالبًا كوسيلة للتنقّل المحلي، في حين يسلط الرسم الأخير على الفئات العمرية، حيث يتصدر العملاء من الفئة المتوسطة
