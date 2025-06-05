@@ -73,7 +73,9 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
  - 1 project Booking Hotel Data Analysis: [Excel Project](https://github.com/raidaljabri/Data-Analysis/blob/a63cbecac858205601ce194da666cd0a9c6a2a2c/Excel%20Project%20.xlsx)
    
-I analyst the company's bicycle user data using Excel, removing duplicates and missing values, and adjusting some values ​​to fit the analysis. I then created charts showing the average number of bicycles per gender, including those who own and do not own bicycles, identifying the age groups most frequently using bicycles, and analyzing the commuting distance covered by bicycle users. These graphical representations helped present the information in a visual and easy-to-understand format.
+تعرض لوحة معلومات "Bike Sales Dashboard" تحليلاً شاملاً لسلوك المستهلكين في شراء الدراجات استنادًا إلى عدة عوامل، حيث توضح العلاقة بين الدخل والجنس وقرار الشراء، وتبيّن أن الذكور بشكل عام يمتلكون دخلاً أعلى من الإناث سواء قاموا بشراء دراجة أم لا، كما أن الأشخاص الذين اشتروا دراجات
+يوضح الرسم الخاص بالمسافة اليومية التي يقطعها العملاء أن من يسافرون لمسافات قصيرة (0-1 ميل) هم الأكثر شراءً للدراجات، وتقل معدلات الشراء بزيادة المسافة، مما يعكس أن الدراجة تُستخدم غالبًا كوسيلة للتنقّل المحلي، في حين يسلط الرسم الأخير على الفئات العمرية، حيث يتصدر العملاء من الفئة المتوسطة
+(30-49 عامًا) قائمة المشترين، يليهم الأكبر سنًا، وتقل النسبة بشكل ملحوظ لدى الفئات الأصغر عمرًا، مما يشير إلى أن الفئات العمرية الأكثر نضجًا هم الأكثر اهتمامًا بشراء الدراجات، وفي المجمل توفر هذه اللوحة تصورًا بصريًا واضحًا يربط بين مستوى الدخل، العمر، الجنس، ومسافة التنقل وسلوك الشراء، مما يساعد في فهم للعملاء المستهدفين في سوق الدراجات.
 
  Bike Sales DashboarD
 ![Bike Sales DashboarD](https://github.com/raidaljabri/Data-Analysis/blob/77a9963586aad7e4638c150db02c6be149a9ce8c/photo/Excel/Bike%20Sales%20Dashboard.png))
