@@ -60,7 +60,7 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 وتشير اللوحة إلى وجود أداء قوي للطلبات من حيث الكمية والتكلفة، مع تركز في بعض المنتجات والدول، مما يوفر أساسًا قويًا لاتخاذ قرارات استراتيجية مستقبلية.
 
         Orders Report analyst
-![Orders Report analys](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/booking%20hoel.png?raw=true)
+![Orders Report analys](https://github.com/raidaljabri/Data-Analysis/blob/70cd1d041c0e077a7485b091731c4bbedf699d61/photo/tableau/Orders%20Report.png)
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
