@@ -1,51 +1,65 @@
 # Portfolio Projects
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
+## Following are my projects in SQL, Python, Tableau, Excel ,power bi: <br />
 #### You can take a look at my personal on Github : [Data analysi on Github]([www.priyankajha24.wixsite.com/aboutme](https://github.com/raidaljabri/Data-Analysis.git)) <br />
 
 #### You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](h) <br />
 
-- [x] *Tableau* - 
+## *Tableau* - 
 
 To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
-  - 2 project HR Analysis Dashbard:
-    
+  - 1 -project HR Analysis Dashbard:
+
+### 🔹 تحليل لوحة بيانات الموارد البشرية – HR Analysis Dashboard  
+
+📊 *رابط التفاعل مع لوحة البيانات:*  
+[اضغط هنا لعرض لوحة HR Analysis Dashboard على Tableau](https://public.tableau.com/views/HRAnalysisDashbard/HDanalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+تعكس هذه اللوحة التفاعلية تحليلاً متكاملاً لانفصال الموظفين (Attrition) ورضاهم الوظيفي ضمن بيئة العمل. يشير التحليل إلى أن إجمالي عدد الموظفين هو *1,470* موظفًا، منهم *237* غادروا العمل، ما يمثل *نسبة انفصال بلغت ‎%16.12، بمتوسط عمر قدره **37 عامًا*.
+
+فيما يتعلق بالأقسام، لوحظ أن قسم *البحوث والتطوير (R&D)* شهد أعلى نسبة انفصال بنسبة *56%، يليه قسم **الموارد البشرية (HR)* بنسبة *38%، بينما كانت أقل نسبة في قسم **المبيعات (Sales)*.  
+أما من حيث التخصصات التعليمية، فقد سجلت تخصصات *علوم الحياة* و*الطب* أعلى معدلات انفصال.
+
+تحليل الانفصال حسب الجنس والعمر أظهر أن الفئة العمرية *35–44 سنة* بين الذكور سجلت أعلى معدل انفصال بنسبة *%18.14، بينما الفئة **أقل من 25 سنة* بين الإناث كانت الأكثر تأثرًا كذلك.
+
+من جانب آخر، تحليل *الرضا الوظيفي* أظهر أن موظفي المبيعات والتمثيل الصحي يتمتعون بأعلى درجات الرضا، حيث تركزت التقييمات الإيجابية في أعلى المستويات.
+
+
+           HR Analysis Dashbard
+![HR Analysis Dashbard](https://github.com/raidaljabri/Data-Analysis/blob/9569208f7534ca016980e519fff372b247a7f25f/photo/tableau/HR%20Analysis%20Dashbard.png)
+
      
 
 
 
 
 
+#### -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
- - 1 project Booking Hotel Data Analysis:
+ - 2 -project Booking Hotel Data Analysis:
    
-I analyst hotel data containing 23 million rows using Tableau, calculating the average room rate for each room type over a full year. Prices were also analyzed according to the ZD Code to determine the impact of classifications on pricing. Additionally, the number of people who booked each room was calculated, reflecting the popularity of the rooms. This analysis provides valuable insights for improving hotel pricing and planning strategies.
+ ### 🔹  تحليل بيانات أسعار الإيجار حسب الغرف  –  Booking Hotel Data Analysis                                            
+
+ لوحة البيانات هذه تحليلاً مفصلاً لسوق الإيجارات العقارية من خلال ثلاثة محاور رئيسية: الإيرادات السنوية، متوسط الأسعار حسب عدد غرف النوم، وتوزيع الأسعار حسب الرموز البريدية.
+
+تشير البيانات إلى وجود تفاوت واضح في متوسط أسعار الإيجار حسب عدد غرف النوم. فقد بلغ السعر المتوسط للوحدات ذات غرفة نوم واحدة حوالي 97.1، في حين ارتفع هذا المتوسط مع زيادة عدد الغرف، ليصل إلى 147.7 للوحدات التي تحتوي على خمس غرف نوم. ومن اللافت أن الوحدات ذات ست غرف نوم شهدت انخفاضًا في السعر المتوسط إلى 101.1، ما قد يعكس قلة الطلب على هذه الفئة أو تمركزها في مناطق أقل تكلفة.
+
+أما من حيث توزيع الأسعار حسب الرموز البريدية، فقد تصدرت المنطقة ذات الرمز البريدي 98101 قائمة المناطق الأعلى سعراً بمتوسط تجاوز 150، تليها مناطق مثل 98109 و98119، مما يشير إلى أن الموقع الجغرافي له تأثير مباشر على التسعير.
+
+من حيث عدد القوائم المعروضة، فإن الوحدات التي تحتوي على غرفة نوم واحدة هي الأكثر شيوعًا، تليها الوحدات المكونة من غرفتين وثلاث غرف، حيث يزداد الإقبال على الوحدات الصغيرة والمتوسطة الحجم.
 
         Booking Hotel
 ![Booking Hotel](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/booking%20hoel.png?raw=true)
       
-      1 Avg price for bedrooms
-![Avg price for bedrooms](https://github.com/raidaljabri/Data-Analysis/blob/27117e8ac221ace2b81f7a43a01fc32610f18ea9/photo/tableau/Avg%20price%20for%20bedrooms.png?raw=true)
 
-      2 Revenue for Year
-  ![Revenue for Year](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/Revenue%20for%20Year.png?raw=true)
-
-
-      3 Distinct count of badroom listings
-  ![Distinct count of bedroom listings](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/Distinct%20count%20of%20badroom%20listings.png?raw=true)
-
-
-   
-      4 price by zd cood
-  ![Price by zd code](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/price%20by%20zd%20cood.png?raw=true)
 
      
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- [x] *Excel* -
+## *Excel* -
 
       Kindly download these Excel files from repository and view them in Microsoft Excel.
 
