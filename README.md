@@ -42,7 +42,7 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
 
 من حيث عدد القوائم ، فإن الوحدات التي تحتوي على غرفة نوم واحدة هي الأكثر شيوعًا، في الوحدات المكونة من غرفتين وثلاث غرف، حيث يزداد الطلب على الغرف الواحده.
 
-        Booking Hotel
+        Analysis Booking Hotel
 ![Booking Hotel](https://github.com/raidaljabri/Data-Analysis/blob/d035f993835951e289e862b91d0268fa2e0a1c91/photo/tableau/booking%20hoel.png?raw=true)
       
 
