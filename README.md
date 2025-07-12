@@ -2,7 +2,7 @@
 ## Following are my projects in SQL, Python, Tableau, Excel ,power bi: <br />
 #### You can take a look at my personal on Github : [Data analysi on Github]([www.priyankajha24.wixsite.com/aboutme](https://github.com/raidaljabri/Data-Analysis.git)) <br />
 
-#### يمكنك الاطلاع على حسابي الشخصي على لينكد إن: [حسابي على لينكد إن](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNL4arItTRxyeVKXckiuc2A%3D%3D)
+#### You can take a look at my personal on linkedin : [حسابي على لينكد إن](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNL4arItTRxyeVKXckiuc2A%3D%3D)
 
 ##
 ## *Tableau* - 
